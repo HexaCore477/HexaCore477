@@ -1,4 +1,4 @@
-# Sr. Full-Stack | React/Next.js | Python/Node.js | AI, CV & Agents | n8n
+# AI-Powered Full-Stack Developer | Computer Vision Enginner
 
 👋 Hi.
 I’m a passionate and experienced Full Stack Developer with a strong focus on web frontend development. 
@@ -19,11 +19,6 @@ I specialize in creating dynamic, responsive, and user-friendly web applications
 - ✅ **Frameworks**: Flutter, React Native, Ionic
 - ✅ **Native Development**: Android SDK, iOS SDK
 - ✅ **Deployment Tools**: Google Play Console, Apple App Store
-- ✨AI Voice Agent Development:
-- ✅ **ElevenLabs** for realistic TTS
-- ✅ **Vapi/Retell** AI for phone-ready agents
-- ✅ **ChatGPT** API for intelligent dialogues
-- ✅ **Use cases**: customer service, inbound/outbound sales, appointment scheduling, lead qualification, and more.
 - ✨ Computer Vision & AI
 - ✅ Languages & Frameworks: Python, OpenCV, PyTorch, TensorFlow, ONNX
 - ✅ Core Skills:
