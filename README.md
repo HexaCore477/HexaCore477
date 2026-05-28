@@ -1,7 +1,7 @@
 # AI-Powered Full-Stack Developer | Computer Vision Enginner
 
 👋 Hi.
-I’m a passionate and experienced Full Stack Developer with a strong focus on web frontend development. 
+I’m a passionate and experienced Full Stack Developer with a strong focus on web frontend/backend development and Computer Vision Project. 
 With expertise in both JavaScript and Python, I can bring your project to life from concept to deployment.
 I specialize in creating dynamic, responsive, and user-friendly web applications that meet the highest standards of performance and usability.
 
