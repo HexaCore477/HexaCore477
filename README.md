@@ -6,43 +6,43 @@ With expertise in both JavaScript and Python, I can bring your project to life f
 I specialize in creating dynamic, responsive, and user-friendly web applications that meet the highest standards of performance and usability.
 
 🔧 My skillset includes:
-✨Web:
-- ✅ **Language**: JavaScript, TypeScript, Python
-- ✅ **Frontend Framework**: React.js, Next.js, Vue.js, Nuxt.js, Tailwind CSS. Shadcn, Framer Motion
-- ✅ **Backend Framework**: Node.js, Express.js, FastAPI, Django
-- ✅ **Database**: MySQL, PostgreSQL, Supabase, MongoDB, Firebase
-- ✅ **API Development**: REST, GraphQL, gRPC, WebSockets
-- ✅ **Deployment Tools**: Vercel, Netlify, Heroku, AWS Amplify, Firebase Hosting
-- ✅ **Integration Tools**: Stripe, Twilio, OpenAI API
+- ✨Web:
+- **Language**: JavaScript, TypeScript, Python
+- **Frontend Framework**: React.js, Next.js, Vue.js, Nuxt.js, Tailwind CSS. Shadcn, Framer Motion
+- **Backend Framework**: Node.js, Express.js, FastAPI, Django
+- **Database**: MySQL, PostgreSQL, Supabase, MongoDB, Firebase
+- **API Development**: REST, GraphQL, gRPC, WebSockets
+- **Deployment Tools**: Vercel, Netlify, Heroku, AWS Amplify, Firebase Hosting
+- **Integration Tools**: Stripe, Twilio, OpenAI API
 - ✨MOBILE:
-- ✅ **Language**: Dart, Kotlin, Java, TypeScript, JavaScript
-- ✅ **Frameworks**: Flutter, React Native, Ionic
-- ✅ **Native Development**: Android SDK, iOS SDK
-- ✅ **Deployment Tools**: Google Play Console, Apple App Store
+- **Language**: Dart, Kotlin, Java, TypeScript, JavaScript
+- **Frameworks**: Flutter, React Native, Ionic
+- **Native Development**: Android SDK, iOS SDK
+- **Deployment Tools**: Google Play Console, Apple App Store
 - ✨ Computer Vision & AI
-- ✅ Languages & Frameworks: Python, OpenCV, PyTorch, TensorFlow, ONNX
+- Languages & Frameworks: Python, OpenCV, PyTorch, TensorFlow, ONNX
 - ✅ Core Skills:
-- ✔ Image classification & object detection
-- ✔ Face detection & recognition
-- ✔ OCR & document processing
-- ✔ Image segmentation & tracking
-- ✔ Pose estimation & motion analysis
+- Image classification & object detection
+- Face detection & recognition
+- OCR & document processing
+- Image segmentation & tracking
+- Pose estimation & motion analysis
 - ✅ Models & Techniques:
-- ✔ CNNs, YOLO (v5–v8), SSD, Faster R-CNN
-- ✔ Vision Transformers (ViT)
-- ✔ Transfer learning & model fine-tuning
+- CNNs, YOLO (v5–v8), SSD, Faster R-CNN
+- Vision Transformers (ViT)
+- Transfer learning & model fine-tuning
 - ✅ Real-world Applications:
-- ✔ Surveillance & security systems
-- ✔ Smart cameras & IoT vision devices
-- ✔ E-commerce image search & tagging
-- ✔ Medical & industrial image analysis
+- Surveillance & security systems
+- Smart cameras & IoT vision devices
+- E-commerce image search & tagging
+- Medical & industrial image analysis
 - ✅ Deployment:
-- ✔ Edge AI (Jetson, Raspberry Pi)
-- ✔ Cloud inference (AWS, GCP)
-- ✔ REST / WebSocket-based CV APIs
+- Edge AI (Jetson, Raspberry Pi)
+- Cloud inference (AWS, GCP)
+- REST / WebSocket-based CV APIs
 
 - 🎯 Other experience
-- 👀 I’m interested in C/C++, IoT Firmware such as nRF52 series.
+- 👀 I’m interested in C/C++, IoT Firmware such as nRF52, STM32, ESP32, Apollo3/4/5 series.
 - 💞️ I’m looking to collaborate on exciting tech projects and open-source initiatives.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I made the BLE Mesh network in 2022 by using the nRF52840.
