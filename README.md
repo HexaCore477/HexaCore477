@@ -1,4 +1,4 @@
-# AI-Powered Full-Stack Developer | Computer Vision Enginner
+# Software Engineer
 
 👋 Hi.
 I’m a passionate and experienced Full Stack Developer with a strong focus on web frontend/backend development and Computer Vision Project. 
