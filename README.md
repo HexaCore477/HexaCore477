@@ -1,21 +1,16 @@
-# Software Engineer
+# 👋 Hi, I am a Senior Software Engineer
 
-👋 Hi.
 I’m a passionate and experienced Full Stack Developer with a strong focus on web frontend/backend development and Computer Vision Project. 
 With expertise in both JavaScript and Python, I can bring your project to life from concept to deployment.
 I specialize in creating dynamic, responsive, and user-friendly web applications that meet the highest standards of performance and usability.
 
 🔧 My skillset includes:
 - ✨Web:
-- **Language**: JavaScript, TypeScript, Python
-- **Frontend Framework**: React.js, Next.js, Vue.js, Nuxt.js, Tailwind CSS. Shadcn, Framer Motion
-- **Backend Framework**: Node.js, Express.js, FastAPI, Django
-- **Database**: MySQL, PostgreSQL, Supabase, MongoDB, Firebase
-- **API Development**: REST, GraphQL, gRPC, WebSockets
-- **Deployment Tools**: Vercel, Netlify, Heroku, AWS Amplify, Firebase Hosting
-- **Integration Tools**: Stripe, Twilio, OpenAI API
+- **JavaScript, TypeScript, Python, React.js, Next.js, Vue.js, Nuxt.js, Tailwind CSS. Shadcn, Framer Motion**
+- ** Node.js, Express.js, FastAPI, Django, MySQL, PostgreSQL, Supabase, MongoDB, Firebase**
+- **API Development**: REST, GraphQL, gRPC, WebSockets, Vercel, Netlify, Heroku, AWS Amplify, Firebase Hosting,Integration Tools**: Stripe, Twilio, OpenAI API**
 - ✨MOBILE:
-- **Language**: Dart, Kotlin, Java, TypeScript, JavaScript
+- ** Dart, Kotlin, Java, TypeScript, JavaScript
 - **Frameworks**: Flutter, React Native, Ionic
 - **Native Development**: Android SDK, iOS SDK
 - **Deployment Tools**: Google Play Console, Apple App Store
