@@ -6,7 +6,7 @@ With expertise in both JavaScript and Python, I can bring your project to life f
 I specialize in creating dynamic, responsive, and user-friendly web applications that meet the highest standards of performance and usability.
 
 🔧 My skillset includes:
-- ✨Web:
+✨Web:
 - ✅ **Language**: JavaScript, TypeScript, Python
 - ✅ **Frontend Framework**: React.js, Next.js, Vue.js, Nuxt.js, Tailwind CSS. Shadcn, Framer Motion
 - ✅ **Backend Framework**: Node.js, Express.js, FastAPI, Django
